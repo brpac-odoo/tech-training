@@ -33,7 +33,7 @@
 
                     <div class="oe_title">
                         <h1 class="mb32">
-                            <field name="name" placeholder="New Estate Property Tag" class="mb16" />
+                            <field name="name" placeholder="Create your brand new Estate Property Tag" class="mb16" />
                         </h1>
                     </div>
                 </sheet>
